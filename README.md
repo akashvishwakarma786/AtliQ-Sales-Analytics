@@ -22,7 +22,7 @@ This repository contains sales and finance analytics reports, designed to empowe
 
 ### Divisional Net Sales
 
-- [Divisional Net Sales Report](link_to_report) - Gain insights into the net sales of different divisions
+- [Divisional Net Sales Report](https://github.com/akashvishwakarma786/AtliQ-Sales-Analytics/blob/main/Divisional%20Report.pdf) - Gain insights into the net sales of different divisions
   
 
 ### Top 5 Countries Net Sales
