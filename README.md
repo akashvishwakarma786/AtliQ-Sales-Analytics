@@ -6,19 +6,19 @@ This repository contains sales and finance analytics reports, designed to empowe
 
 ### Customer Sales Performance
 
-- [Customer Sales Performance Report](link_to_report) - This report provides insights into customer sales performance, enabling you to identify key trends and opportunities for growth.
+- [Customer Sales Performance Report](https://github.com/akashvishwakarma786/AtliQ-Sales-Analytics/blob/main/customer%20sales%20performance.pdf) - This report provides insights into customer sales performance, enabling you to identify key trends and opportunities for growth.
 
 ### Market Performance vs Target
 
-- [Market Performance vs Target Report](link_to_report) - This report offers a comprehensive comparison between market performance and sales targets, aiding in strategic decision-making.
+- [Market Performance vs Target Report](https://github.com/akashvishwakarma786/AtliQ-Sales-Analytics/blob/main/market%20performance%20vs%20target.pdf) - This report offers a comprehensive comparison between market performance and sales targets, aiding in strategic decision-making.
 
 ### Top 10 Products
 
-- [Top 10 Products Report](link_to_report) - Discover the top-performing products in your sales data with this detailed report.
+- [Top 10 Products Report](https://github.com/akashvishwakarma786/AtliQ-Sales-Analytics/blob/main/Top%2010%20Products.pdf) - Discover the top-performing products in your sales data with this detailed report.
 
 ### Top / Bottom 5 Products
 
-- [Top / Bottom 5 Products Report](link_to_report) - Identify the best and worst-performing products to optimize your product portfolio.
+- [Top / Bottom 5 Products Report](https://github.com/akashvishwakarma786/AtliQ-Sales-Analytics/blob/main/Top_Bottom%205%20products.pdf) - Identify the best and worst-performing products to optimize your product portfolio.
 
 ### Divisional Net Sales
 
@@ -27,19 +27,19 @@ This repository contains sales and finance analytics reports, designed to empowe
 
 ### Top 5 Countries Net Sales
 
-- [Top 5 Countries in terms of Net Sales Report](link_to_report) - Understand the net sales figures , helping you focus on high-potential markets.
+- [Top 5 Countries in terms of Net Sales Report](https://github.com/akashvishwakarma786/AtliQ-Sales-Analytics/blob/main/Top%205%20countries.pdf) - Understand the net sales figures , helping you focus on high-potential markets.
 
 ## Finance Analytics
 
 ### Profit and Loss (P&L) Reports
 
-- [P&L by Market](link_to_report) - Create P&L reports by market, allowing for in-depth financial analysis.
+- [P&L by Market](https://github.com/akashvishwakarma786/AtliQ-Sales-Analytics/blob/main/P_L%20BY%20MARKET.pdf) - Create P&L reports by market, allowing for in-depth financial analysis.
 
-- [P&L by Fiscal Year](link_to_report) - Evaluate financial performance by fiscal year for strategic planning.
+- [P&L by Fiscal Year](https://github.com/akashvishwakarma786/AtliQ-Sales-Analytics/blob/main/P_L%20BY%20YEAR.pdf) - Evaluate financial performance by fiscal year for strategic planning.
 
 ### Gross Margin % by Quarter
 
-- [Gross Margin % by Quarter Report](link_to_report) - Track the gross margin percentage over different quarters, providing insights into profitability trends.
+- [Gross Margin % by Quarter Report](https://github.com/akashvishwakarma786/AtliQ-Sales-Analytics/blob/main/GM%20BY%20QUARTER.pdf) - Track the gross margin percentage over different quarters, providing insights into profitability trends.
 
 ## Technical & Soft Skills
 
